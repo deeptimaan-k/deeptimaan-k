@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deeptimaan Krishna Jadaun</h1>
 <h3 align="center">Engineering student with excellent problem-solving skills and ability to perform well in a team. Passionate about coding and want to work in good environment.</h3>
-<img align="centre" alt="Hacking" width="400" src="https://cdn-eaekd.nitrocdn.com/CxTeoSPKdjdqTSxLEEGaKiGroHlKASqH/assets/images/optimized/rev-d765668/wp-content/uploads/2020/04/anti-hacking.gif">
+<img align="centre" alt="Hacking" width="400" src="https://miro.medium.com/v2/resize:fit:1280/0*1fOKSM9na9IBROxm.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deeptimaan-k&label=Profile%20views&color=0e75b6&style=flat" alt="deeptimaan-k" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deeptimaan-k" alt="deeptimaan-k" /></a> </p>

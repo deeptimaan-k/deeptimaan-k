@@ -17,28 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1cpLacnJDAAy_xdbaCy7SwGKFeGpoLWbG/view?usp=sharing](https://drive.google.com/file/d/1cpLacnJDAAy_xdbaCy7SwGKFeGpoLWbG/view?usp=sharing)
 
-- ⚡ Fun fact **I'm <span class="typing-effect">RadianT</span>**
-
-<style>
-  .typing-effect {
-    color: #58a6ff;
-    overflow: hidden;
-    border-right: 2px solid #58a6ff;
-    white-space: nowrap;
-    display: inline-block;
-    animation: typing 3.5s steps(7, end), blink-caret 0.75s step-end infinite;
-  }
-
-  @keyframes typing {
-    from { width: 0 }
-    to { width: 100% }
-  }
-
-  @keyframes blink-caret {
-    from, to { border-color: transparent }
-    50% { border-color: #58a6ff; }
-  }
-</style>
+- ⚡ Fun fact **I'm RadianT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

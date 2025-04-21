@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="400" alt="Coding" />
+  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="400" alt="Coding" />
 </div>
 
 <p align="center">

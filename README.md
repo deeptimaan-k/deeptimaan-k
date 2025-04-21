@@ -114,21 +114,6 @@ const deeptimaan = {
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deeptimaan-k)
   
 </div>
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=deeptimaan-k&theme=react-dark&bg_color=1e293b&hide_border=true" width="100%" alt="Activity Graph">
-</div>
-
-## 🎧 Currently Listening To
-
-<div align="center">
-  
-  [![Spotify](https://spotify-now-playing-delta-three.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-id)
-  
-</div>
-
 ---
 
 <div align="center">

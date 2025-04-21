@@ -14,9 +14,7 @@
 - 💬 Ask me about **react, C, C++, Python**
 
 - 📫 How to reach me **deeptimaankrishnajadaun@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cpLacnJDAAy_xdbaCy7SwGKFeGpoLWbG/view?usp=sharing](https://drive.google.com/file/d/1cpLacnJDAAy_xdbaCy7SwGKFeGpoLWbG/view?usp=sharing)
-
+  
 - ⚡ Fun fact **I'm RadianT**
 
 <h3 align="left">Connect with me:</h3>

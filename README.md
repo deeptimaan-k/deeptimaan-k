@@ -14,11 +14,10 @@
 - 💬 Ask me about **react, C, C++, Python**
 
 - 📫 How to reach me **deeptimaankrishnajadaun@gmail.com**
-  
-- <h3>
-  ⚡ Fun fact <strong style="color: #58a6ff;">I'm </strong>
-  <span class="typing-effect">RadianT</span>
-</h3>
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1cpLacnJDAAy_xdbaCy7SwGKFeGpoLWbG/view?usp=sharing](https://drive.google.com/file/d/1cpLacnJDAAy_xdbaCy7SwGKFeGpoLWbG/view?usp=sharing)
+
+- ⚡ Fun fact **I'm <span class="typing-effect">RadianT</span>**
 
 <style>
   .typing-effect {
@@ -26,6 +25,7 @@
     overflow: hidden;
     border-right: 2px solid #58a6ff;
     white-space: nowrap;
+    display: inline-block;
     animation: typing 3.5s steps(7, end), blink-caret 0.75s step-end infinite;
   }
 

@@ -95,13 +95,14 @@ const deeptimaan = {
 ## 📌 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/deeptimaan-k/RadianT-Movies.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deeptimaan-k&repo=project-name&theme=tokyonight&bg_color=1e293b&border_color=475569&text_color=e2e8f0&title_color=a78bfa&icon_color=6366f1" alt="Featured Project" />
+  <a href="https://github.com/deeptimaan-k/RadianT-Movies">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deeptimaan-k&repo=RadianT-Movies&theme=tokyonight&bg_color=1e293b&border_color=475569&text_color=e2e8f0&title_color=a78bfa&icon_color=6366f1" alt="Featured Project" />
   </a>
   <a href="https://github.com/deeptimaan-k/Movies_react">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deeptimaan-k&repo=another-project&theme=tokyonight&bg_color=1e293b&border_color=475569&text_color=e2e8f0&title_color=a78bfa&icon_color=6366f1" alt="Featured Project" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deeptimaan-k&repo=Movies_react&theme=tokyonight&bg_color=1e293b&border_color=475569&text_color=e2e8f0&title_color=a78bfa&icon_color=6366f1" alt="Featured Project" />
   </a>
 </div>
+
 
 ## 🌐 Connect With Me
 
@@ -114,7 +115,6 @@ const deeptimaan = {
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deeptimaan-k)
   
 </div>
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=deeptimaan-k&label=Profile%20views&color=6366f1&style=for-the-badge" alt="Profile views" />

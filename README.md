@@ -95,10 +95,10 @@ const deeptimaan = {
 ## 📌 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/deeptimaan-k/project-name">
+  <a href="[https://github.com/deeptimaan-k/project-name](https://github.com/deeptimaan-k/RadianT-Movies.git)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=deeptimaan-k&repo=project-name&theme=tokyonight&bg_color=1e293b&border_color=475569&text_color=e2e8f0&title_color=a78bfa&icon_color=6366f1" alt="Featured Project" />
   </a>
-  <a href="https://github.com/deeptimaan-k/another-project">
+  <a href="[https://github.com/deeptimaan-k/another-project](https://github.com/deeptimaan-k/Movies_react)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=deeptimaan-k&repo=another-project&theme=tokyonight&bg_color=1e293b&border_color=475569&text_color=e2e8f0&title_color=a78bfa&icon_color=6366f1" alt="Featured Project" />
   </a>
 </div>
